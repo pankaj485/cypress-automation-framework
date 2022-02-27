@@ -32,7 +32,7 @@
 # Starting Project
 
 1. Create a directory to work on and then initialize npm package by `npm init`
-2. Install cypress with `npx install cypress`
+2. Install cypress with `npm install cypress`
 3. Start cypress with `npx cypress open`
 
 ---
